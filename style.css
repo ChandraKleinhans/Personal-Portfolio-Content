@@ -1,0 +1,27 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table, tr, th, td{
+    border: 1px solid black;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+#Chandra{
+    height: 250px;
+    border: 5px solid black;
+}
+#nameContact{
+    padding-bottom: 25px;
+    display: inline-block;
+}
+#emailContact{
+    padding-bottom: 25px;
+    display: inline-block;
+    padding-left: 20px;
+}
+#messageContact{
+    padding-bottom: 25px;
+}
